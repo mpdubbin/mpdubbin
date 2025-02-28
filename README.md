@@ -26,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/04051037-9c9c-4ab8-9ce8-d92187ccc67c" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/7d0bb1f3-b888-4324-add1-ac5cd68047ee" width="40" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/8964366c-0488-40c2-a5c6-6699d4944f94" width="40" height="40"/>&nbsp;
