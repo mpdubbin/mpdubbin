@@ -33,4 +33,4 @@
 
 ---
 
-Most of my work has been done at, well, work. Portfolio projects are in progress and I will update this file accordingly. Thanks for checking out my page.
+Most of my work has been done at, well, work. Personal projects to showcase skills and interests are in progress and I will update this file accordingly. Thanks for checking out my page.
