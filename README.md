@@ -1,7 +1,5 @@
 ## Hi, I'm Michael 👋
 
----
-
 ### About me
 - :round_pushpin: Located in Frederick, MD. Co-organize the local tech group [Python Frederick](https://www.meetup.com/python-frederick/)
 - :earth_americas: Environmental Geoscience degree from the University of Maryland, College Park
