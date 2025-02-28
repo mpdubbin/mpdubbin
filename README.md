@@ -4,7 +4,7 @@
 - :round_pushpin: Located in Frederick, MD. Co-organize the local tech group [Python Frederick](https://www.meetup.com/python-frederick/)
 - :earth_americas: Environmental Geoscience degree from the University of Maryland, College Park
 - :computer: Data Scientist at the U.S. Food and Drug Administration
-- :cat2::cat2::black_cat: Have three cats
+- :cat2::cat2::black_cat: Three cat household
 - :hot_pepper: Chili's is my favorite restaurant
 - :mailbox: Feel free to connect on [LinkedIn](https://www.linkedin.com/in/michaeldubbin/)
 
