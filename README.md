@@ -15,7 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/4ac7181d-cb0a-4ec2-965e-63d48a2f49a1" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/1257ebf3-78d3-41c5-b5aa-21a386b07e08" width="40" height="40"/>&nbsp;
 </div>
 
 ### Tools:
