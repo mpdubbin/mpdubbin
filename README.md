@@ -1,5 +1,7 @@
 ## Hi, I'm Michael 👋
+
 ---
+
 ### About me
 - :round_pushpin: Located in Frederick, MD. Co-organize the local tech group [Python Frederick](https://www.meetup.com/python-frederick/)
 - :earth_americas: Environmental Geoscience degree from the University of Maryland, College Park
@@ -7,7 +9,9 @@
 - :cat2::cat2::black_cat: Have three cats
 - :hot_pepper: Chili's is my favorite restaurant
 - :mailbox: Feel free to connect on [LinkedIn](https://www.linkedin.com/in/michaeldubbin/)
+
 ---
+
 ### Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
@@ -26,5 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>&nbsp;
 </div>
+
 ---
+
 Most of my work has been done at, well, work. Portfolio projects are in progress and I will update this file accordingly. Thanks for checking out my page.
