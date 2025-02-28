@@ -27,7 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/a845f4a6-bd14-4eba-bdf9-cd34dfddddb5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/7d0bb1f3-b888-4324-add1-ac5cd68047ee" width="40" height="40"/>&nbsp;
 </div>
 
 ---
