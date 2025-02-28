@@ -40,3 +40,11 @@
 ---
 
 Most of my work has been done at, well, work. Personal projects to showcase skills and interests are in progress and I will update this file accordingly. Thanks for checking out my page.
+
+**Current Project Plans:**
+1. Job Description Autopopulator
+   - Impetus: I am currently in the job market and parsing job descriptions by hand is quite an inconvenience.
+   - Idea: Build a tool that scrapes job posting webpages, extracts structured information (e.g., organization name, job title, salary range), and then saves these details into a local database.
+2. Marine Environmental Data Analysis & Forecasting Pipeline
+   - Impetus: I love Monterey, California, and the great scientific work they do. I also enjoy geospatial and machine learning analyses.
+   - Idea: Build an end-to-end pipeline that ingests the MBTS marine environmental data from MBARI, processes and stores it, performs time-series forecasting on key variables (like water temperature, salinity, etc.), and visualizes the results using an interactive dashboard.
