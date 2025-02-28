@@ -26,15 +26,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/04051037-9c9c-4ab8-9ce8-d92187ccc67c" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/7d0bb1f3-b888-4324-add1-ac5cd68047ee" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/8964366c-0488-40c2-a5c6-6699d4944f94" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/7f07668b-74a1-452d-9ba0-85c194245fbb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/dd2ac8f7-9294-4f9b-95f8-3e8a6b2ed758" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/ca38b35f-f626-4656-875b-bc8403ae1847" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/356a3937-ae51-4c12-90b0-445b3abebb1f" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/2644ef7b-d1f3-44ef-8077-2f6841f1d9d1" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/04051037-9c9c-4ab8-9ce8-d92187ccc67c" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/356a3937-ae51-4c12-90b0-445b3abebb1f" title="GeoPandas" alt="GeoPandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/7d0bb1f3-b888-4324-add1-ac5cd68047ee" title="Ollama" alt="Ollama" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/8964366c-0488-40c2-a5c6-6699d4944f94" title="Hugging Face" alt="Hugging Face" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/7f07668b-74a1-452d-9ba0-85c194245fbb" title="Replit" alt="Replit" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/dd2ac8f7-9294-4f9b-95f8-3e8a6b2ed758" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/ca38b35f-f626-4656-875b-bc8403ae1847" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/2644ef7b-d1f3-44ef-8077-2f6841f1d9d1" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
 </div>
 
 ---
