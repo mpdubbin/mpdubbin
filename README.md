@@ -27,7 +27,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>&nbsp;
-  ![ollama](https://github.com/user-attachments/assets/1d6555cb-e695-4fd5-9163-40d3c0f7ac3c)
 </div>
 
 ---
