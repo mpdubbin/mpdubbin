@@ -27,7 +27,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://lobehub.com/icons/ollama/logo.png width="40" height="40"/>&nbsp;
 </div>
 
 ---
