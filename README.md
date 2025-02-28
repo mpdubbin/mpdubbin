@@ -33,7 +33,7 @@
   <img src="https://github.com/user-attachments/assets/7f07668b-74a1-452d-9ba0-85c194245fbb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/8141a930-9fc4-45ea-b4f6-b4b21b001c57" width="40" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/ca38b35f-f626-4656-875b-bc8403ae1847" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/47aa077d-2d44-4fd9-b4f4-dd623b71e69e" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/356a3937-ae51-4c12-90b0-445b3abebb1f" width="40" height="40"/>&nbsp;
 </div>
 
 ---
