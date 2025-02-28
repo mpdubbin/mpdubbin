@@ -27,9 +27,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/75d9a7a2-706a-495f-8a8b-f6939b9160ad" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 Most of my work has been done at, well, work. Personal projects to showcase skills and interests are in progress and I will update this file accordingly. Thanks for checking out my page.
+
 
