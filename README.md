@@ -42,7 +42,7 @@
 Most of my work has been done at, well, work. Personal projects to showcase skills and interests are in progress and I will update this file accordingly. Thanks for checking out my page.
 
 **Current Projects**
-1. Repo to check a specific company's webpage for job updates.
+1. Repo to check a specific company's webpage for job updates ([job_updates](https://github.com/mpdubbin/job_updates).
 
 **Planned Projects**:
 1. Job Description Autopopulator
