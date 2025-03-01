@@ -41,7 +41,10 @@
 
 Most of my work has been done at, well, work. Personal projects to showcase skills and interests are in progress and I will update this file accordingly. Thanks for checking out my page.
 
-**Current Project Plans:**
+**Current Projects**
+1. Repo to check a specific company's webpage for job updates.
+
+**Planned Projects**:
 1. Job Description Autopopulator
    - Impetus: I am currently in the job market and parsing job descriptions by hand is quite an inconvenience.
    - Idea: Build a tool that scrapes job posting webpages, extracts structured information (e.g., organization name, job title, salary range), and then saves these details into a local database.
