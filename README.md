@@ -2,7 +2,7 @@
 
 ### About me
 - :round_pushpin: Located in Frederick, MD. Co-organize the local tech group [Python Frederick](https://www.meetup.com/python-frederick/); if you're interested in learning about [Scrapy](https://scrapy.org/), I did a [presentation on the basics](https://github.com/mpdubbin/intro_to_scrapy) last year
-- :earth_americas: Environmental Geoscience degree from the University of Maryland, College Park
+- :earth_americas: B.S. Environmental Geoscience from the University of Maryland, College Park
 - :computer: Data Scientist at the U.S. Food and Drug Administration
 - :cat2::cat2::black_cat: Three cat household
 - :hot_pepper: Chili's is my favorite restaurant
