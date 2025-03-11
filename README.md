@@ -41,11 +41,12 @@
 
 Most of my work has been done at, well, work. Personal projects to showcase skills and interests are in progress and I will update this file accordingly. Thanks for checking out my page.
 
-**Current Projects**
-- Repo to check a specific company's webpage for [job_updates](https://github.com/mpdubbin/job_updates).
+**Current Repos**
+- Code to check a specific company's webpage for [job_updates](https://github.com/mpdubbin/job_updates).
+- [Introduction to Scrapy](https://github.com/mpdubbin/intro_to_scrapy) presentation for Python Frederick  
 
 **In Progress**
-- Job Description Autopopulator
+- [Job Description Autopopulator](https://github.com/mpdubbin/job_search_tool)
    - Impetus: I am currently in the job market and parsing job descriptions by hand is quite an inconvenience.
    - Idea: Build a tool that scrapes job posting webpages, extracts structured information (e.g., organization name, job title, salary range), and then saves these details into a local database.
      
